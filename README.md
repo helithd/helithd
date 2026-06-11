@@ -55,5 +55,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helithd&layout=compact&theme=dark&hide_border=true)
 
 ---
-
-*🔍 Open to MSc research opportunities and collaborations in AI/ML*
