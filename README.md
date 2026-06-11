@@ -46,8 +46,7 @@
 | [AI-Personal-Trainer](https://github.com/helithd/AI-Personal-Trainer) | AI-powered personal fitness trainer application | Python |
 | [Face-Recognition-App](https://github.com/helithd/Face-Recognition-App) | Real-time face recognition using TensorFlow and Kivy | Python, TensorFlow |
 | [Bus Arrival Time Prediction](https://github.com/helithd/Bus-Arrival-Time-Prediction-Frontend) | Full-stack real-time bus arrival prediction system | TypeScript, FastAPI |
-| [Capstone Project](https://github.com/helithd/Capstone-project-2) | Final year undergraduate capstone project | HTML |
-
+ [DG-3DPLACE ⭐ Final Year Project](https://github.com/RealEstateGen/DG-3DPLACE) | 3D Gaussian Splatting for real estate visualization with AI-driven 3D object placement | Python, PyTorch, Docker |
 ---
 
 ## 📊 GitHub Stats
